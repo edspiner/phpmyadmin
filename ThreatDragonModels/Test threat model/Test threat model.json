@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "owner": "Edi",
+    "title": "Test threat model",
+    "description": "A high level system descriotion"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Edi 2.0"
+  }
+}
